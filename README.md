@@ -8,8 +8,8 @@
 
 ## Wiki
 This is my [home page](https://github.com/SamuelMc24/CyberVets-ePortfolio/wiki) where you can view links to my:
-* [Resume](https://github.com/SamuelMc24/CyberVets-ePortfolio/wiki/My-Resume) 
-* [LinkedIn Page](https://www.linkedin.com/in/samuel-mclaughlin-45680b23a) 
+* [Resume](https://github.com/brancheac1/CyberVets_ePortfolio/wiki/Resume) 
+* [LinkedIn Page](https://www.linkedin.com/in/aurelia-branch-e-94241067/) 
 * [Projects](https://github.com/SamuelMc24/CyberVets-ePortfolio/projects?type=beta) 
 
 
