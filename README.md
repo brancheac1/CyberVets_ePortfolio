@@ -20,5 +20,5 @@ The [Projects](https://github.com/brancheac1?tab=projects&type=beta) are divided
 * Thanks to [Matt](https://github.com/ellismj/CyberVets-ePortfolio), a Cohort 7 member, for his help and guidance on setting up this eportfolio as well as helping me in numerous other ways as I begin the CyberVets program.
 * Thanks to [Sam](https://github.com/SamuelMc24/CyberVets-ePortfolio), a Cohort 8 member, for his help and guidance on setting up this eportfolio.
 
-* To know more about the CMS CyberVets Program: [Visit the CMS CyberVets Program page](https://www.cms.gov/about-cms/careers-cms/cms-cybervets-program) or [view course 
+* To know more about the CMS CyberVets Program: [Visit the CMS CyberVets Program page](https://www.cms.gov/about-cms/careers-cms/cms-cybervets-program) 
 
