@@ -11,7 +11,7 @@ This is my [home page](https://github.com/brancheac1/CyberVets_ePortfolio/wiki) 
 ## My Projects
 The [Projects](https://github.com/brancheac1?tab=projects&type=beta) are divided into 3 categories:
 * [Courses, Certifications, and Badges](https://github.com/users/brancheac1/projects/2) - This is where you will find any Cybersecurity courses, certifications, and badges that I have completed. As I get further into the program, I may add a section of courses I intend on completing. 
-* [CyberVets Program Progress](https://github.com/users/brancheac1/projects/1) - This section consists of my daily journals/ notes on what I did that day and my CyberVet prgression.
+* [Daily Journal Entries](https://github.com/users/brancheac1/projects/1) - This section consists of my daily journals/ notes on what I did that day and my CyberVet prgression.
 * [Escalate Challenge Logs](https://github.com/users/brancheac1/projects/3) - Escalate is a training platform CyberVets utilize for all kinds of cybersecurity training activities. This is where you will find information on every challenge I have attempted or completed along with hopefully all of the step by step approaches to each challenge.  
 
 ## Credits
