@@ -5,7 +5,7 @@ The CyberVets program is a 180-day cybersecurity internship run through the Cent
 ## Wiki
 This is my [home page](https://github.com/brancheac1/CyberVets_ePortfolio/wiki) where you can view links to my:
 * [Resume](https://github.com/brancheac1/CyberVets_ePortfolio/wiki/Resume) 
-* [LinkedIn Page](https://www.linkedin.com/in/aurelia-branch-e-94241067/) 
+* [LinkedIn Page](https://www.linkedin.com/in/aurelia-c-branch-e-94241067/) 
 
 
 ## My Projects
